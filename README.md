@@ -1,8 +1,8 @@
 #Animate Jquery Plugin
-*animate.css and Jquery together
+*animate.css and Jquery together*
 
 This simple plugin will add the Transitions of the Animate.css library when you hover or click on an element of your DOM. 
-It needs obviously Animate.css (https://github.com/daneden/animate.css) and Jquery
+It needs obviously Animate.css (https://github.com/daneden/animate.css) and Jquery (http://jquery.com/download/).
 
 ##Usage
 The usage is very simple you need only to link your element and choose the animation you wanto to add:
@@ -11,7 +11,6 @@ The usage is very simple you need only to link your element and choose the anima
 ```javascript
 $('#yourElement').animateHover("bounce");
 ```
-
 ###Click
 ```javascript
 $('#yourElement').animateClick("bounce");
