@@ -1,0 +1,25 @@
+{
+  "name": "jquery.animate"
+  , "description": ""
+  , "version": "1.0.0"
+  , "private": true
+  , "author": "Giovanni Luca Murabito"
+  , "homepage": "http://digiapps.it"
+  , "contributors": [
+    "Giovanni Luca Murabito <info@digiapps.it>"
+  ]
+  , "dependencies": {
+      "jquery" : "~1.x"
+  }
+  , "devDependencies": {
+    "grunt": "~0.4.x"
+      , "grunt-contrib-uglify": "~0.2"
+      , "grunt-contrib-concat": "~0.3"
+      , "grunt-contrib-watch": "~0.4"
+      , "grunt-contrib-jshint": "~0.5"
+      , "grunt-contrib-copy": "~0.4"
+      , "grunt-bump": "~0.x"
+  }
+  , "keywords": []
+  , "repository": ""
+}
